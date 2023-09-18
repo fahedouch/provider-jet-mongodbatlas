@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/crossplane/terrajet/pkg/config"
+	"github.com/upbound/upjet/pkg/config"
 
-	"github.com/crossplane-contrib/provider-jet-mongodbatlas/config/common"
+	"github.com/crossplane-contrib/provider-mongodbatlas/config/common"
 )
 
 // Configure configures the root group
